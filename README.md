@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Getting started
 
-To get this app running locally, you'll need to have [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/getting-started/install) installed on your machine.
+To get this app running locally, you'll need to have [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) installed on your machine.
 In the project directory, you can run:
 
 ```bash
@@ -32,7 +32,3 @@ The following sections are recommended:
 - [npm run build fails to minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-## License
-
-This project is licensed under the [LICENSE](LICENSE).
